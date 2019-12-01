@@ -1,0 +1,1 @@
+*/10 * * * *	root	/usr/local/bin/run_system_status.sh
